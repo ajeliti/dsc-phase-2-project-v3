@@ -27,7 +27,8 @@ For the exploratory analysis, we will make use of data collected from the follow
 ![image](https://github.com/user-attachments/assets/b2eb65d4-8dcc-46a1-a20c-e9bb9293483d)
 
 ## Release Month
-![image](https://github.com/user-attachments/assets/e3cc067b-5c70-4c9d-9d48-094f2fc8f7ed)
+![image](https://github.com/user-attachments/assets/41193748-0af9-43ff-a211-fe99514f2bf3)
+
 
 ## Production Budget vs Total earnings
 ![image](https://github.com/user-attachments/assets/80ec056e-4c3c-48a2-81e5-329d97312251)
